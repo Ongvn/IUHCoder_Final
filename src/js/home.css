@@ -1,0 +1,61 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#container {
+  margin: 0 auto;
+  font-family: Arial;
+}
+
+#head{
+  background-color: darkorange;
+  color: white;
+  padding: 20px 60px;
+}
+#img{
+  width: 40px;
+  position: absolute;
+  left: 1420px;
+  top: 10px;
+  border-radius: 20px;
+}
+
+#content{
+  align-content: center;
+}
+
+.problem{
+  width: 70%;
+  margin: 10px auto;
+  border: 2px solid orange;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.score{
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  font-size: 50px;
+}
+
+.problem-detail{
+  display: inline-block;
+}
+
+.title{
+  font-size: 20px;
+}
+
+.title a{
+  color: orange;
+}
+
+.detail{
+
+}
+
+.status{
+  display: inline-block;
+  float: right;
+}
