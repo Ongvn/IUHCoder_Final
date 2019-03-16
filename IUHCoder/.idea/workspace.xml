@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af79f8d5-7b3f-4afc-9c7f-bcdc6669eb8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/TOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/extend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/misc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/doc/usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/humans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/interface_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/vendor/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/vendor/modernizr-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/tile-wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gulpfile.babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernizr-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/TOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/extend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/misc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/doc/usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/humans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/acc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tile-wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/file_content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/file_existence.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="80" column="38" lean-forward="true" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/modify.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/startbootstrap-sb-admin-2-gh-pages/blank.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2442">
+              <caret line="98" column="47" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/modify.css" />
+        <option value="$PROJECT_DIR$/Detail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IUHCoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IUHCoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IUHCoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IUHCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af79f8d5-7b3f-4afc-9c7f-bcdc6669eb8b" name="Default Changelist" comment="" />
+      <created>1552718538009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552718538009</updated>
+      <workItem from="1552718541687" duration="3042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3042000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/modify.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/startbootstrap-sb-admin-2-gh-pages/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2442">
+          <caret line="98" column="47" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="80" column="38" lean-forward="true" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
