@@ -8,13 +8,13 @@ CREATE TABLE user_profile(
 	constraint id_UNIQUE
 		unique (id)
 );
-INSERT INTO user_profile(id, username, password, full_name, level, status)
+INSERT INTO user_profile(id, name, password, fullname, level, status)
 VALUES (1, 'iuh_master', 'username', 'Trần Như Thế', 5, 1);
-INSERT INTO user_profile(id, username, password, full_name, level, status)
+INSERT INTO user_profile(id, name, password, fullname, level, status)
 VALUES (2, 'tester', 'noname', 'Vũ Thanh Hải', 2, 1);
-INSERT INTO user_profile(id, username, password, full_name, level, status)
+INSERT INTO user_profile(id, name, password, fullname, level, status)
 VALUES (3, 'developer', 'onlyme', 'Nguyen Duy Tien', 3, 0);
-INSERT INTO user_profile(id, username, password, full_name, level, status)
+INSERT INTO user_profile(id, name, password, fullname, level, status)
 VALUES (4, 'devops', 'oooppp', 'Kibana El', 4, 1);
 
 CREATE TABLE submission

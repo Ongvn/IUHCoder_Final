@@ -55,4 +55,9 @@ public class UserserviceImpl implements Userservice,UserDetailsService {
         return new org.springframework.security.core.userdetails.
                 User(user_profile.getUsername(),user_profile.getPassword(),authorities);
     }
+
+    @Override
+    public Collection<user_profile> findAllUser(){
+       return userserviceRepo.findAll();
+    }
 }

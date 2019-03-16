@@ -4,6 +4,7 @@ import org.hibernate.validator.constraints.Length;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotEmpty;
+import java.util.ArrayList;
 
 @Entity
 @Table(name = "user_profile")
@@ -32,7 +33,19 @@ public class user_profile {
     @Column(name = "status")
     private Integer status;
 
+    @OneToMany()
+    @JoinColumn(name = "sub_id",referencedColumnName = "id")
+    private ArrayList<submission> submissions;
+
     public user_profile() {
+    }
+
+    public ArrayList<submission> getSubmissions() {
+        return submissions;
+    }
+
+    public void setSubmissions(ArrayList<submission> submissions) {
+        this.submissions = submissions;
     }
 
     public user_profile(@NotEmpty(message = "please provide username") String username, @Length(min = 5, message = "*Your password must have at least 5 character") @NotEmpty(message = "please provide your password") String password, @NotEmpty(message = "*please provide fullname") String fullname, Integer level, Integer status) {
